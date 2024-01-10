@@ -1,0 +1,44 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.navbar-brand {
+  font-size: 2rem;
+  color: black;
+}
+.navbar-brand:hover {
+  color: black;
+}
+.nav-link {
+  margin-right: 10px;
+  margin-left: 10px;
+  color: black;
+  text-transform: uppercase;
+  font-family: "Rubik", sans-serif;
+  font-family: "Work Sans", sans-serif;
+}
+.nav-link:hover {
+  color: black;
+}
+.Search {
+  height: 40px;
+  width: 80%;
+  border-radius: 60px;
+  outline: none;
+  margin-right: -35px;
+  font-family: "Rubik", sans-serif;
+  /* font-family: "Work Sans", sans-serif; */
+  border: 2px solid rgb(248, 26, 92);
+}
+
+.btn0 {
+  height: 40px;
+  width: 40%;
+  outline: none;
+  border: none;
+  background: rgb(248, 26, 92);
+  color: white;
+  border-radius: 60px;
+  font-weight: 700;
+}

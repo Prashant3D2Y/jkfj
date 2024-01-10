@@ -1,0 +1,21 @@
+button {
+  color: rgb(233, 19, 19);
+}
+body {
+  background-color: blueviolet;
+}
+#head2 {
+  color: blue;
+}
+#head3 {
+  color: black;
+}
+#head4 {
+  color: aliceblue;
+}
+#head5 {
+  color: bisque;
+}
+.myclass {
+  color: rgb(243, 229, 37);
+}
